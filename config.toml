@@ -48,6 +48,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 40
   identifier = "categories"
   url = "/categories/"
+[[menu.main]]
+  name = "Portfolios"
+  weight = 40
+  identifier = "portfolios"
+  url = "https://nunulong.github.io/portfolios"
+
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
