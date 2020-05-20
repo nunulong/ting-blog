@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nunulong.github.io/ting-blog/sitemap.xml
