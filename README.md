@@ -1,1 +1,1 @@
-# ting-blog
+# My Personal Blog
